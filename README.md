@@ -66,5 +66,5 @@ This repository contains a clear, practical, beginner‑friendly path to learn G
 ---
 
 ## ⭐ Author
-Roadmap generated with support from ChatGPT.
+Rahul & Yash.
 
